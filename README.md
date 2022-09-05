@@ -1,4 +1,6 @@
-# MWP2L: Contains datasets and code used to get GPT-3 to solve math word problems involves systems of two linear equations.
+# MWP2L 
+
+This repository contains datasets and code pertaining to using GPT-3 to solve math word problems involving systems of two linear equations.
 
 
 This repo is associated with the following paper manuscript (in preparation/submission): 
